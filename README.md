@@ -1,9 +1,8 @@
 # fruit-detection
 fruit detection mainly based on faster rcnn model in pytorch
 
-## results
-On the left is the output of the optimized model, and on the right is the original output.
 
+## results
 Original outputs             |  Outputs with group label
 :-------------------------: |:-------------------------:
 ![image](https://github.com/kkalee/fruit-detection/blob/master/visual_result_nogroup/999_j0736o1l93c_121.jpg)  |  ![image](https://github.com/kkalee/fruit-detection/blob/master/visual_result/999_j0736o1l93c_121.jpg)

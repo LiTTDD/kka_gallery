@@ -20,7 +20,7 @@ edge guided image outpainting
 
 
 ## some results
-origin input     | cropped_input        |  edge_input |  result_without_edge | result_with
+origin input     | cropped_input        |  edge_input |  result_without_edge | result_with_edge
 :-------------------------: |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/input/input1.png)  |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/crop_input/input1.png) |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/edge/edge1.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_noedge/test1.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_edge/test1.png)
 ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/input/input2.png)  |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/crop_input/input2.png) |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/edge/edge2.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_noedge/test2.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_edge/test2.png)

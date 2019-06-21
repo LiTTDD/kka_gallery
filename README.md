@@ -30,11 +30,14 @@ origin input     | cropped_input        |  edge_input |  result_without_edge | r
 ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/input/input6.png)  |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/crop_input/input6.png) |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/edge/edge6.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_noedge/test6.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_edge/test6.png)
 
 
-#image-captioning
+# image-captioning
 
-##some results
-input             |  output
-:-------------------------: |:-------------------------:
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/123.png)  |  a giraffe standing next to a tree in a field
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/1234.png)  |  a bunch of food is on a table
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/12345.png)  |  a table with a vase of flowers on the table 
+## some results
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/123.png)
+a giraffe standing next to a tree in a field
+
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/1234.png)
+a bunch of food is on a table
+
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/12345.png)
+a table with a vase of flowers on the table 

@@ -14,3 +14,16 @@ Original outputs             |  Outputs with group label
 
 ## model
 The faster rcnn uses a resnet50 backbone.You can change the depth of the resnet model. Depth must be one of 18, 34, 50, 101 or 152. Note that deeper models are more accurate but are slower and use more memory.
+
+# image-outpainting
+edge guided image outpainting
+
+
+## some results
+origin input     | cropped_input        |  edge_input |  result_without_edge | result_with
+:-------------------------: |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/input/input1.png)  |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/crop_input/input1.png) |  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/edge/edge1.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_noedge/test1.png)|  ![image](https://github.com/kkalee/fruit-detection/blob/master/image-outpainting/gen_edge/test1.png)
+
+
+## model
+The faster rcnn uses a resnet50 backbone.You can change the depth of the resnet model. Depth must be one of 18, 34, 50, 101 or 152. Note that deeper models are more accurate but are slower and use more memory.

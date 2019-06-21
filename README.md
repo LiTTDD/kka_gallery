@@ -42,6 +42,6 @@ a bunch of food is on a table
 ![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/12345.png)
 a table with a vase of flowers on the table 
 
-Original outputs             |  Outputs with group label
+input             |  output
 :-------------------------: |:-------------------------:
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/123.png)  |  aaaaa
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/123.png)  |  a giraffe standing next to a tree in a field

@@ -33,15 +33,8 @@ origin input     | cropped_input        |  edge_input |  result_without_edge | r
 # image-captioning
 
 ## some results
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/123.png)
-a giraffe standing next to a tree in a field
-
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/1234.png)
-a bunch of food is on a table
-
-![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/12345.png)
-a table with a vase of flowers on the table 
-
 input             |  output
 :-------------------------: |:-------------------------:
 ![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/123.png)  |  a giraffe standing next to a tree in a field
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/1234.png) |  a bunch of food is on a table
+![image](https://github.com/kkalee/fruit-detection/blob/master/image-captioning/input/12345.png)|  a table with a vase of flowers on the table 
